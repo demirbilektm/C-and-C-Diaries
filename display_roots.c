@@ -71,8 +71,7 @@ int main(void)
 	scanf("%lf", &c);
 
 	display_roots(a, b, c);
-
-    calculate_roots(a, b, c);
+        calculate_roots(a, b, c);
 
 	return 0;
 }
